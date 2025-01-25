@@ -1,0 +1,155 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>traffic.html</title>
+<style type="text/css">
+<!--
+  em,h1,h2,h3,h4,h5,h6,form,input,br,hr,p,td,th,li,ul {
+  font-family:Verdana,Arial,Helvetica,sans-serif; }
+
+  td {color:#000000; background-color:#cccccc;}
+
+  th {color:#000000; background-color:#999999;}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+
+<!-- HEADER -->
+<h1>Traffic analysis for HTTP, FTP/SFTP, e-mail and WebDAV</h1>
+<p>
+The following analysis shows your monthly data transfer volumes for
+the current year, divided up into HTTP, FTP, e-mail and WebDAV.
+A summary is shown in the first two columns.
+</p>
+
+<p>
+HTTP, WebDAV and FTP/SFTP traffic is based on the access.log.&lt;week&gt;.&lt;weekday&gt;,
+dav.log.&lt;week&gt;.&lt;weekday&gt;, ftp.xferlog and sftp.log files
+respectively, located in your '/logs' directory (separate FTP transfer logs
+apply to packages with a non-shared IP address only).
+</p>
+
+<p>
+The column labeled "quantity" of the category mail indicates the number
+of e-mails that originated from scripts running on your virtual host.
+This does not include e-mails sent via mailing lists.
+</p>
+
+<p>
+The number of megabytes in each category indicates how many megabytes
+were actually consumed by the specified number of requests.
+</p>
+
+<table border="0" cellspacing="2" cellpadding="3">
+<thead>
+<tr>
+<th></th>
+<th colspan="2">Total</th>
+<th colspan="2">HTTP</th>
+<th colspan="2">FTP/SFTP</th>
+<th colspan="2">Mail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Month</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Quantity</th>
+</tr>
+<tr><th><a href="01.html">2025-01</a></th>
+<td align="right">5.1</td><td align="right" style="border-left:0px;">1,089</td>
+<td align="right">5.1</td><td align="right" style="border-left:0px;">1,089</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2025-01 5.143 1089 5.143 1089 0.000 0 0.000 0 -->
+<tr><th><a href="12.html">2024-12</a></th>
+<td align="right">112.6</td><td align="right" style="border-left:0px;">39,656</td>
+<td align="right">112.6</td><td align="right" style="border-left:0px;">39,656</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-12 112.562 39656 112.562 39656 0.000 0 0.000 0 -->
+<tr><th><a href="11.html">2024-11</a></th>
+<td align="right">83.2</td><td align="right" style="border-left:0px;">30,149</td>
+<td align="right">83.2</td><td align="right" style="border-left:0px;">30,149</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-11 83.229 30149 83.229 30149 0.000 0 0.000 0 -->
+<tr><th><a href="10.html">2024-10</a></th>
+<td align="right">92.7</td><td align="right" style="border-left:0px;">15,770</td>
+<td align="right">92.7</td><td align="right" style="border-left:0px;">15,770</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-10 92.653 15770 92.653 15770 0.000 0 0.000 0 -->
+<tr><th><a href="09.html">2024-09</a></th>
+<td align="right">100.0</td><td align="right" style="border-left:0px;">19,548</td>
+<td align="right">100.0</td><td align="right" style="border-left:0px;">19,548</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-09 100.024 19548 100.024 19548 0.000 0 0.000 0 -->
+<tr><th><a href="08.html">2024-08</a></th>
+<td align="right">108.7</td><td align="right" style="border-left:0px;">31,509</td>
+<td align="right">108.7</td><td align="right" style="border-left:0px;">31,509</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-08 108.749 31509 108.749 31509 0.000 0 0.000 0 -->
+<tr><th><a href="07.html">2024-07</a></th>
+<td align="right">103.0</td><td align="right" style="border-left:0px;">23,790</td>
+<td align="right">103.0</td><td align="right" style="border-left:0px;">23,790</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-07 103.022 23790 103.022 23790 0.000 0 0.000 0 -->
+<tr><th><a href="06.html">2024-06</a></th>
+<td align="right">102.4</td><td align="right" style="border-left:0px;">25,932</td>
+<td align="right">102.4</td><td align="right" style="border-left:0px;">25,932</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-06 102.369 25932 102.369 25932 0.000 0 0.000 0 -->
+<tr><th><a href="05.html">2024-05</a></th>
+<td align="right">101.0</td><td align="right" style="border-left:0px;">18,850</td>
+<td align="right">101.0</td><td align="right" style="border-left:0px;">18,850</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-05 100.967 18850 100.967 18850 0.000 0 0.000 0 -->
+<tr><th><a href="04.html">2024-04</a></th>
+<td align="right">103.7</td><td align="right" style="border-left:0px;">10,839</td>
+<td align="right">103.7</td><td align="right" style="border-left:0px;">10,839</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-04 103.734 10839 103.734 10839 0.000 0 0.000 0 -->
+<tr><th><a href="03.html">2024-03</a></th>
+<td align="right">105.5</td><td align="right" style="border-left:0px;">19,693</td>
+<td align="right">105.5</td><td align="right" style="border-left:0px;">19,693</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2024-03 105.466 19693 105.466 19693 0.000 0 0.000 0 -->
+</tbody>
+</table>
+
+<!-- FOOTER -->
+<pre>
+1 kB = 1000 Bytes
+1 MB = 1000 kB
+1 GB = 1000 MB
+</pre>
+
+
+</body>
+</html>

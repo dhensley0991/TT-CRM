@@ -1,0 +1,114 @@
+LiveChat conversation transcript:
+----------
+
+Name: michael kim
+E-mail: tokeekim@yahoo.com
+Choose a department: General Inquiries
+----------
+Nicholas M. (Mon, 4/12/2021, 10:17:43 am America/New_York)
+Thank you for visiting Guardian Trading, a Division of Velocity Clearing, LLC.  What questions can I answer for you?
+
+michael kim (Mon, 4/12/2021, 10:18:52 am)
+hello, i came from having a tradezero account and im just trying to understand the fees. when i joined i was placed on a .0020 per share fee, was that for commissions?
+
+Nicholas M. (Mon, 4/12/2021, 10:19:11 am)
+Hi Michael, welcome! We're happy to have you. The .0020 per share is commissions that is correct. 
+
+michael kim (Mon, 4/12/2021, 10:19:30 am)
+i know someone told me the credit wouldnt show up til the end of the month?
+
+Nicholas M. (Mon, 4/12/2021, 10:20:23 am)
+We see you are on a 25% locate deal as well. The commissions are per trade and they are factored right in automatically. The locate deal is rebated back the next day. The price you see for locates will not account for the discount until you receive the rebate of 25% the next day. 
+
+Nicholas M. (Mon, 4/12/2021, 10:21:20 am)
+You will see the commissions the next day in ICLEAR. You will see them on the trade itself in DAS. 
+
+Nicholas M. (Mon, 4/12/2021, 10:21:38 am)
+We can set you up with a propreports login that will show a better detail of your account information. 
+
+michael kim (Mon, 4/12/2021, 10:22:58 am)
+so i guess thats where im a little confused, someone already set me up with a prop account, and with only 450 shares 14 orders i was charged 14.00
+
+Nicholas M. (Mon, 4/12/2021, 10:23:22 am)
+This might have triggered the $1 minimum. What stock were you trading?
+
+michael kim (Mon, 4/12/2021, 10:23:36 am)
+afmd and eyes
+
+Nicholas M. (Mon, 4/12/2021, 10:24:25 am)
+Let me transfer you over to the head of our accounts, Donnie. He can better explain the dollar minimum. One moment please. 
+
+michael kim (Mon, 4/12/2021, 10:24:33 am)
+thank you
+
+Donnie Hensley (Mon, 4/12/2021, 10:24:37 am)
+Hello Michael
+
+michael kim (Mon, 4/12/2021, 10:24:41 am)
+hello donnie
+
+Donnie Hensley (Mon, 4/12/2021, 10:24:41 am)
+how are you today
+
+Donnie Hensley (Mon, 4/12/2021, 10:24:44 am)
+?
+
+michael kim (Mon, 4/12/2021, 10:24:48 am)
+im good and you?
+
+Donnie Hensley (Mon, 4/12/2021, 10:25:02 am)
+very well... whats happening?
+
+michael kim (Mon, 4/12/2021, 10:25:44 am)
+well when i signed up for guardian recently i was placed on a promo  for .0020 a share, and coming from tradezero im trying to grasp an idea on fees im paying
+
+Donnie Hensley (Mon, 4/12/2021, 10:25:48 am)
+sure
+
+michael kim (Mon, 4/12/2021, 10:26:31 am)
+on my first day of trading friday i traded amfd and eyes with 14 fills and 450 shares but charged $14 in commissions
+
+Donnie Hensley (Mon, 4/12/2021, 10:26:38 am)
+there is a dollar minimum per trade
+
+Donnie Hensley (Mon, 4/12/2021, 10:26:43 am)
+in commissions
+
+michael kim (Mon, 4/12/2021, 10:26:49 am)
+oh ok
+
+Donnie Hensley (Mon, 4/12/2021, 10:26:59 am)
+the value comes from the discount in locates
+
+michael kim (Mon, 4/12/2021, 10:27:00 am)
+so it would really matter when you use size
+
+michael kim (Mon, 4/12/2021, 10:27:01 am)
+got it
+
+Donnie Hensley (Mon, 4/12/2021, 10:27:29 am)
+yes the locates with us are no overnights and there is a 25% discount you are on
+
+Donnie Hensley (Mon, 4/12/2021, 10:28:05 am)
+as opposed to the 5:1 when you overnight at TZ and some may believe they pad the cost of commissions into the locates
+
+michael kim (Mon, 4/12/2021, 10:28:28 am)
+yea tz sucks, ive already noticed how much faster the fills are
+
+michael kim (Mon, 4/12/2021, 10:28:51 am)
+thanks a lot donnie thats really the only question i had
+
+Donnie Hensley (Mon, 4/12/2021, 10:29:01 am)
+well they do some things right but they are not true Direct Market Access to be honest
+
+michael kim (Mon, 4/12/2021, 10:29:18 am)
+for sure i already notice the difference though
+
+Donnie Hensley (Mon, 4/12/2021, 10:29:22 am)
+thank you for chatting in is there anything else I can help you with?
+
+michael kim (Mon, 4/12/2021, 10:29:34 am)
+no thats everything have a great  day!
+
+Donnie Hensley (Mon, 4/12/2021, 10:29:38 am)
+you as well
